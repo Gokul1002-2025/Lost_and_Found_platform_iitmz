@@ -42,4 +42,33 @@
 ### Next Steps
 - Set up the FastAPI backend.
 - Design the database schema.
-- Build the authentication system.
+- Build the authentication system
+# Project Log
+
+## Day 1
+
+### Completed
+- Created Python virtual environment
+- Installed FastAPI and Uvicorn
+- Built first backend server
+- Successfully ran FastAPI
+- Opened Swagger UI
+- Learned how API endpoints work
+
+### Learned
+- What an API is
+- What FastAPI does
+- What Uvicorn does
+- Why virtual environments are useful
+- How browsers communicate with servers
+
+### Problems Faced
+- Placed main.py inside venv
+- Used the wrong Python interpreter
+- PowerShell execution policy blocked activation
+- Learned how to debug each issue
+
+### Status
+✅ Milestone 1 Complete
+
+
